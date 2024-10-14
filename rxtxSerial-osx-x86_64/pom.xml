@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>gnu.io.rxtx</groupId>
     <artifactId>librxtxSerial-osx-x86_64</artifactId>
-    <packaging>jnilib</packaging>
+    <packaging>so</packaging>
     <version>${project.version}<!-- version calculated by maven-git-versioning-extension based on git tags --></version>
     <name>[osx/x86_64] rxtxSerial</name>
     <url>http://rxtx.qbang.org</url>
